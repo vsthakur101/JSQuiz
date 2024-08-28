@@ -10,4 +10,4 @@ JavaScript is a versatile language with a rich set of features and concepts. Thi
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/vsthakur101/JSQuiz](https://github.com/vsthakur101/JSQuiz)
+   git clone https://github.com/vsthakur101/JSQuiz
