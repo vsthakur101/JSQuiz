@@ -1,5 +1,5 @@
 const obj = {
-  dev: "bfe",
+  dev: "vidhya",
   a: function () {
     return this.dev;
   },
