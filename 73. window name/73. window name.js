@@ -11,3 +11,5 @@ var name = 1;
   var name = '2'
   console.log(name + this.name); // 2undefined
 })();
+
+//In node
