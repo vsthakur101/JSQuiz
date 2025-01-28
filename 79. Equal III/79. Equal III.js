@@ -1,0 +1,1 @@
+console.log(2.0 == "2" == new Boolean(true) == "1")
