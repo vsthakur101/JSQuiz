@@ -56,7 +56,7 @@ Advanced notes:
 
 Examples and tests
 
-See the implementation in this folder: [135. Implement Curry/solution.js](135.%20Implement%20Curry/solution.js)
+See the implementation in this folder: [135. Implement Curry/solution.js](solution.js)
 
 Quick try (Node):
 
